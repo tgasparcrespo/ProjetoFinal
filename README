@@ -1,4 +1,4 @@
-Antes de correr, o código, será necessário seguir os seguintes passos:
+Para executar o projeto, será necessário seguir os seguintes passos:
 Criar a base de dados no PostgreSQL, de acordo com o documentado no relatório; de seguida, será preciso preencher os ficheiros de variáveis ambiente, tanto no backend como no frontend.
 Para visualizar o frontend, poderá ser utilizada a aplicação Expo Go, que permite correr aplicações mobile Expo através da leitura de um QR code.
 
