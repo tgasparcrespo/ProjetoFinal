@@ -1,0 +1,10 @@
+Antes de correr, o código, será necessário seguir os seguintes passos:
+Criar a base de dados no PostgreSQL, de acordo com o documentado no relatório; de seguida, será preciso preencher os ficheiros de variáveis ambiente, tanto no backend como no frontend.
+Para visualizar o frontend, poderá ser utilizada a aplicação Expo Go, que permite correr aplicações mobile Expo através da leitura de um QR code.
+
+De seguida, tomem-se os seguintes passos:
+1. Abrir o diretório do backend num terminal, e executar npm install, para que todas as dependências sejam instaladas;
+2. Abrir a pasta src no terminal, e executar o comando "node server.js", apra executar o servidor;
+3. Abrir o diretório do frontend noutro terminal, e executar "npm install" para instalar as dependencias;
+4. Correr "npx expo start" para inciar então o expo, com o frontend;
+5. Ler o QR code com a aplicação Expo Go, para que a aplicação mobile seja executada no dispositivo móvel.
